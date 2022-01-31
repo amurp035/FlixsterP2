@@ -32,3 +32,5 @@ Figuring out how to round the edges for the posters was difficult because I'd ne
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
+
+@codepathreview // collaborator
